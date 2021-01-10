@@ -15,6 +15,8 @@
 
 **FU** stands for File Upload. It is a command line tool written in Bash. It allows you to easily upload files temporarily and share it with other people with ease in comfort of your terminal. You can also set custom expiry date for the files. 
 
+**It is powered by file.io**
+
 
 <h2 align="left">
   <strong>Installation</strong>
