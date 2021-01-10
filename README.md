@@ -24,6 +24,8 @@
 
 **For Linux Users AND Intel Based MAC USERS**
 
+FOR non apt linux users please download jq manually from : https://stedolan.github.io/jq/download/
+
  * Download OR Clone the repository in your machine:
 <pre>git clone https://github.com/baibhavanand/fileupload</pre>
 
