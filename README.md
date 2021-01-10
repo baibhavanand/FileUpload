@@ -118,3 +118,7 @@ This will upload text.txt file containing *your text here* and will give you a l
 </p>
 
 <strong>Pull Requests</strong> for any kind of improvement in **FU** are welcome.
+
+<br>
+<hr>
+<i>This project is maintained by <a href="https://github.com/baibhavanand">Baibhav Anand Jha</a> | Twitter: <a href="https://twitter.com/spongebhav">@spongebhav</a></i>
