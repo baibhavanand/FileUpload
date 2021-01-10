@@ -9,7 +9,8 @@ else
 				if [ "$(uname)" == "Darwin" ]; then
 				brew install jq
 				else
-				apt install jq
+				yes | apt install jq
+				yes | apt install curl
 				fi	
 			chmod 777 fu
 			cp fu /usr/local/bin
